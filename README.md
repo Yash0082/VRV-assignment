@@ -102,11 +102,4 @@ Here’s a sample log file format to test the script:
 
 3. **Output File Name**: Modify the `output_csv_path` variable to save the CSV file with a different name or in a different location.
 
-## **Evaluation Criteria**
-This project will be evaluated based on:
-1. **Functionality**: Whether the script processes the log file correctly and fulfills all requirements.
-2. **Code Quality**: Clean, modular, and commented code adhering to Python best practices.
-3. **Performance**: Efficiency in handling large log files.
-4. **Output**: Properly formatted terminal and CSV outputs.
-
 ---
